@@ -856,7 +856,6 @@ p {
   #foot .m-foot {
     display: block;
     text-align: left;
-    margin-left: -18%;
   }
   #foot .cont-1 {
     margin-left: 0px;
@@ -871,7 +870,7 @@ p {
   #foot .cont-m {
     display: block;
     line-height: 20px;
-    margin-top: 2px;
+    margin-top: 10px;
   }
   #foot .cont-3 {
     margin-top: 0%;
